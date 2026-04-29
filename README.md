@@ -39,6 +39,9 @@
 - [Линейная алгебра в NumPy](./lessons/sem02/lesson05/);
 - [Введение в Matplotlib](./lessons/sem02/lesson06/);
 - [Диаграммы в Matplotlib](./lessons/sem02/lesson07/);
+- [Построение трехмерных графиков и анимации](./lessons/sem02/lesson08/);
+- [Введение в Pandas](./lessons/sem02/lesson09/);
+- [Операции над объектами Pandas](./lessons/sem02/lesson10/);
 
 ## Практические задания:
 
